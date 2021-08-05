@@ -81,12 +81,12 @@ established in 2019. They provided three type of services such as photography,
 videography and graphic design services. The company consists of 3 founders, Muhammad
 Zulhairul Ikram bin Khairol as the photographer and videographer, Nazim bin Aziz as the
 graphic designer and Izzuddin Farhan bin Ihsan as Human Resource Manager. Their
-company vision is “To be with You For All Of Life’s Important Moment.” Their company
-mission is “Kembar Tiga Studio comprise of a team of motivated, committed, efficient and
+company vision is To be with You For All Of Lifes Important Moment. Their company
+mission is Kembar Tiga Studio comprise of a team of motivated, committed, efficient and
 dedicated people with the right attitude who offer consistent professional image, video and
 graphic design quality and excellent customer service. Our team is given on-going training
 and mentorship to promote self-development as well as to provide added value to our
-clients according to our vision.” Their objectives are to develop own brand identity, to
+clients according to our vision. Their objectives are to develop own brand identity, to
 achieve at least 25% client base growth after 3 years established and to increase at least
 10% of photographic, videographic and graphic design reputation by 2021.</p>
                 </div>

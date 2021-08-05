@@ -75,7 +75,7 @@
                 <input type="hidden" id="pageId" name="pageId" value="140823194">
                 <div class="u-form-group u-form-name">
                   <label for="name-8aee" class="u-label">Email Address</label>
-                  <input type="text" placeholder="Enter IC Number" id="name-8aee" name="CLIENTID" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
+                  <input type="text" placeholder="Enter Email Address" id="name-8aee" name="CLIENTID" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
               
                   <label for="name-8aee" class="u-label">Name</label>
                   <input type="text" placeholder="Enter Fullname" id="name-8aee" name="CLIENTNAME" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
@@ -88,7 +88,7 @@
                 
                 
                   <label for="name-8aee" class="u-label">New Password</label>
-                  <input type="text" placeholder="Enter Password" id="name-8aee" name="CLIENTPASS" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
+                  <input type="password" placeholder="Enter Password" id="name-8aee" name="CLIENTPASS" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
                
              	
                         <div class="u-align-left u-form-group u-form-submit"><br><br><center>
