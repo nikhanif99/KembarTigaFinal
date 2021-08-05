@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>List Supplier</title>
+<script>
+var request = new XMLHttpRequest();
+
+ request.open("GET", "https://kembartigamicroservices.herokuapp.com/", true);
+request.onload = function () {
+var db_json_value = JSON.parse(this.response);
+
+ if (request.status >= 200 && request.status < 400) {
+for (var i = 0; i < db_json_value.length; i++) {
+var list = document.getElementById("list");
+var li = document.createElement("li");
+li.innerHTML = db_json_value[i].staffID + ": " + db_json_value[i].staffName;
+list.appendChild(li);
+}
+console.log("Request Success!");
+}
+else {
+console.log("Request Failed!");
+}
+
+};
+request.send();
+</script>
+</head>
+<body>
+<ul id="list"
+>
+</ul>
+
+</body>
+</html>
