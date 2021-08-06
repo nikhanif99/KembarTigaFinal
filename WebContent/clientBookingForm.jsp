@@ -54,7 +54,7 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="clientAddBookingController" style="padding: 10px 20px;">Booking Form</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="clientViewBookingListController" style="padding: 10px 20px;">My Booking</a>
 
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="logoutServlet" style="padding: 10px 20px;">Log Out</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="LogoutServlet" style="padding: 10px 20px;">Log Out</a>
 
 </ul>
           </div>
