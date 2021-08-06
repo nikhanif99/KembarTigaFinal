@@ -27,7 +27,7 @@
   </head>
 
   <body class="u-black u-body"><header class="u-black u-clearfix u-header u-header" id="sec-3091"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="homepage.jsp" data-page-id="641621218" class="u-image u-logo u-image-1" title="Home">
+        <a data-page-id="641621218" class="u-image u-logo u-image-1" title="Home">
           <img src="images/logo.png" class="u-logo-image u-logo-image-1" data-image-width="155.1112">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">

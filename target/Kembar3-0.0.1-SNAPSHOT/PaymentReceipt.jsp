@@ -10,7 +10,7 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Payment</title>
+    <title>Payment Receipt</title>
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
 <link rel="stylesheet" href="css/bookingHistory.css" media="screen">
     <script class="u-script" type="text/javascript" src="css/jquery.js" defer=""></script>
@@ -81,7 +81,7 @@
     <meta property="og:url" content="index.html">
   </head>
   <body class="u-body"><header class="u-black u-clearfix u-header u-header" id="sec-3091"><div class="u-clearfix u-sheet u-sheet-1">
-        <a href="Home.html" data-page-id="641621218" class="u-image u-logo u-image-1" title="Home">
+        <a data-page-id="641621218" class="u-image u-logo u-image-1" title="Home">
           <img src="images/logo.png" class="u-logo-image u-logo-image-1" data-image-width="155.1112">
         </a>
         <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
