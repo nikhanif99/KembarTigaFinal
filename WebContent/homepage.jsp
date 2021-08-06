@@ -12,7 +12,7 @@
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Home</title>
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
-<link rel="stylesheet" href="css/Home.css" media="screen">
+<link rel="stylesheet" href="Home.css" media="screen">
     <script class="u-script" type="text/javascript" src="css/jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="css/nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.3.7, nicepage.com">
@@ -73,7 +73,7 @@
         <div class="u-align-right u-container-style u-expanded-width-sm u-group u-group-1">
           <div class="u-container-layout u-valign-middle-lg u-valign-middle-md">
           
-          <h1 class="u-custom-font u-font-roboto-slab u-text u-text-body-alt-color u-title u-text-2">Welcome to Kembar Tiga Studio, <c:out value="${sessionSTAFFNAME}">!</c:out></h1>
+          <h1 class="u-custom-font u-font-roboto-slab u-text u-text-body-alt-color u-title u-text-2">Welcome to Kembar Tiga Studio,</h1><h1 style="color:orange"><b> <c:out value="${sessionSTAFFNAME}">!</c:out></b></h1>
             <h1 class="u-custom-font u-font-roboto-slab u-text u-text-palette-1-base u-title u-text-1">Your Favourite</h1>
             <h1 class="u-custom-font u-font-roboto-slab u-text u-text-body-alt-color u-title u-text-2">Photo</h1>
             <p class="u-text u-text-body-alt-color u-text-3">We only provide the best services to our customer</p>
