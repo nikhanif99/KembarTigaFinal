@@ -75,7 +75,7 @@
             <h1 class="u-custom-font u-font-roboto-slab u-text u-text-palette-1-base u-title u-text-1">Your Favourite</h1>
             <h1 class="u-custom-font u-font-roboto-slab u-text u-text-body-alt-color u-title u-text-2">Photo</h1>
             <p class="u-text u-text-body-alt-color u-text-3">We only provide the best services to our customer</p>
-            <a href="clientLogin.jsp" class="u-btn u-btn-round u-button-style u-radius-24 u-btn-1">Book Now</a>
+            <a href="clientAddBookingController" class="u-btn u-btn-round u-button-style u-radius-24 u-btn-1">Book Now</a>
           </div>
         </div>
       </div>
